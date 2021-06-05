@@ -6,6 +6,7 @@
   <li>
   Instala los paquetes: npm install
   </li>
+  <li>Poner API KEY: UnitBank/android/app/src/main/AndroidMainfest.xml</li>
   <li>
   Inicia la aplicación: npx react-native run-android
   </li>
